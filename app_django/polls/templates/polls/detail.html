@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detail</title>
+</head>
+<body>
+
+<h1>{{ question.question_text }}</h1>
+<ul>
+{% for choice in question.choice_set.all %}
+    <li><a href="{% url 'polls:detail' question.id %}">{{ choice.choice_text }}</a></li>
+{% endfor %}
+</ul>
+
+</body>
+</html>
