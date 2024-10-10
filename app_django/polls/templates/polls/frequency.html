@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Frequency</title>
+</head>
+<body>
+    <ul>
+    {% for choice in question.get_choices %}
+        <li><a>{{ choice.choice_text }} - {{choice.perc }} % {{ choice.votes }}</a></li>
+    {% endfor %}
+    </ul>
+
+</body>
+</html>

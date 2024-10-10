@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="583bafda-3eac-494f-a08c-d0192ca626de" name="Changes" comment="tuto 4">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_django/polls/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_django/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/frequency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/statistics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/app_django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app_django.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_django/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_django/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_django/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_django/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_django/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_django/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_django/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2n6gYuX3ClRmyES3EYut9XjYrrI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/aupetit-gautierm/PycharmProjects/app_django/app_django/polls/templates/polls"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aupetit-gautierm\PycharmProjects\app_django\app_django\polls\templates\polls" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aupetit-gautierm\PycharmProjects\app_django\app_django\polls\templates" />
+      <recent name="C:\Users\aupetit-gautierm\PycharmProjects\app_django\app_django\polls\templates\polls" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="583bafda-3eac-494f-a08c-d0192ca626de" name="Changes" comment="" />
+      <created>1728298991037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728298991037</updated>
+    </task>
+    <task id="LOCAL-00001" summary="steup">
+      <option name="closed" value="true" />
+      <created>1728302552148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728302552149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exo 1">
+      <option name="closed" value="true" />
+      <created>1728303292928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728303292928</updated>
+    </task>
+    <task id="LOCAL-00003" summary="model">
+      <option name="closed" value="true" />
+      <created>1728303991663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728303991663</updated>
+    </task>
+    <task id="LOCAL-00004" summary="choices">
+      <option name="closed" value="true" />
+      <created>1728305702053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728305702053</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ad">
+      <option name="closed" value="true" />
+      <created>1728306084942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728306084942</updated>
+    </task>
+    <task id="LOCAL-00006" summary="question 4">
+      <option name="closed" value="true" />
+      <created>1728377911037</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728377911037</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exo shell">
+      <option name="closed" value="true" />
+      <created>1728392230577</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728392230577</updated>
+    </task>
+    <task id="LOCAL-00008" summary="view">
+      <option name="closed" value="true" />
+      <created>1728455438254</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728455438254</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tuto 3">
+      <option name="closed" value="true" />
+      <created>1728456412654</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728456412654</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tuto 4">
+      <option name="closed" value="true" />
+      <created>1728456923865</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728456923865</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="steup" />
+    <MESSAGE value="exo 1" />
+    <MESSAGE value="model" />
+    <MESSAGE value="choices" />
+    <MESSAGE value="ad" />
+    <MESSAGE value="question 4" />
+    <MESSAGE value="exo shell" />
+    <MESSAGE value="view" />
+    <MESSAGE value="tuto 3" />
+    <MESSAGE value="tuto 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuto 4" />
+  </component>
+</project>
