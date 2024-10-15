@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583bafda-3eac-494f-a08c-d0192ca626de" name="Changes" comment="tuto 4">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_django/polls/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_django/polls/static/polls/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/frequency.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/question.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/statistics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/app_django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app_django.iml" afterDir="false" />
+    <list default="true" id="583bafda-3eac-494f-a08c-d0192ca626de" name="Changes" comment="tuto 5">
+      <change afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_django/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_django/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_django/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_django/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_django/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_django/polls/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/templates/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_django/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_django/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_django/polls/views.py" afterDir="false" />
     </list>
@@ -52,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/aupetit-gautierm/PycharmProjects/app_django/app_django/polls/templates/polls"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aupetit-gautierm/PycharmProjects/app_django/app_django/polls/templates/polls&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aupetit-gautierm\PycharmProjects\app_django\app_django\polls\templates\polls" />
@@ -166,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728456923865</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="tuto 5">
+      <option name="closed" value="true" />
+      <created>1728567479283</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728567479283</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +173,7 @@
     <MESSAGE value="view" />
     <MESSAGE value="tuto 3" />
     <MESSAGE value="tuto 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="tuto 4" />
+    <MESSAGE value="tuto 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuto 5" />
   </component>
 </project>

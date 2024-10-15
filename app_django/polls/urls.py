@@ -7,6 +7,10 @@ app_name = "polls"
 urlpatterns = [
     path("", views.IndexView.as_view(), name="index"),
     path("all/", views.AllView.as_view(), name="all"),
+    path("logout/", views.logout_view, name="logout"),
+
+    path("login/", views.LoginV.as_view(), name="login"),
+
     path("statistics/", views.statisitcs, name="statistics"),
     path("question/", views.question, name="question"),
 

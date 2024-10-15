@@ -1,3 +1,6 @@
+from django.contrib.auth import logout
+from django.contrib.auth.views import LoginView
+from django.core.exceptions import PermissionDenied
 from django.http import HttpResponse, Http404, HttpResponseRedirect
 from django.shortcuts import render, get_object_or_404
 from django.template import loader
@@ -20,6 +23,8 @@ def statisitcs(request):
 def question(request):
     # if this is a POST request we need to process the form data
     if request.method == "POST":
+        if not request.user.is_authenticated:
+            raise PermissionDenied()
         # create a form instance and populate it with data from the request:
         form = QuestionForm(request.POST)
         # check whether it's valid:
@@ -54,6 +59,9 @@ class FreqView(generic.DetailView):
     template_name = "polls/frequency.html"
     model = Question
 
+class LoginV(LoginView):
+    template_name = "polls/login.html"
+    next_page = "/polls/"
 
 
 class AllView(generic.ListView):
@@ -82,6 +90,13 @@ class DetailView(generic.DetailView):
 class ResultsView(generic.DetailView):
     model = Question
     template_name = "polls/results.html"
+
+
+
+def logout_view(request):
+    logout(request)
+    return HttpResponseRedirect(reverse("polls:index"))
+
 
 def vote(request, question_id):
     question = get_object_or_404(Question, pk=question_id)
